@@ -1,4 +1,4 @@
-package clase;
+package model;
 
 public class ZooKeeper {
     private String name;

@@ -1,4 +1,4 @@
-package clase;
+package model;
 
 public class Lion extends Animal{
     //clasa concreta

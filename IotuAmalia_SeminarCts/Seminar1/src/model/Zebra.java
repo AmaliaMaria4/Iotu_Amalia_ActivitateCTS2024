@@ -1,4 +1,4 @@
-package clase;
+package model;
 
 public class Zebra extends Animal{
     //classa concreta

@@ -1,6 +1,6 @@
 package main;
 
-import model.*;
+import clase.*;
 
 import java.util.HashMap;
 

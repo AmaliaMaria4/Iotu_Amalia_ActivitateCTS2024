@@ -1,4 +1,4 @@
-package model;
+package clase;
 
 //clasa abstracta
 public abstract class Animal implements ICanEat{

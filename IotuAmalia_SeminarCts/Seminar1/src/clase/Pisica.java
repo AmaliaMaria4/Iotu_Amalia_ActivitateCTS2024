@@ -1,4 +1,4 @@
-package model;
+package clase;
 
 public class Pisica extends Animal{
     public Pisica(String name, int age) {

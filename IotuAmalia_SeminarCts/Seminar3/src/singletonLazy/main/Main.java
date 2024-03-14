@@ -1,4 +1,5 @@
 package singletonLazy.main;
+
 import singletonLazy.classes.ConexiuneBazaDate;
 
 public class Main {
@@ -11,5 +12,5 @@ public class Main {
         conexiuneBazaDate2.setNume("BazaDeDateNoua2");
         System.out.println(conexiuneBazaDate1.toString());
         System.out.println(conexiuneBazaDate2.toString());
-        }
     }
+}

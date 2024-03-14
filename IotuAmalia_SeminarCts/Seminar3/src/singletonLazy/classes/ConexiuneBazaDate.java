@@ -1,11 +1,13 @@
 package singletonLazy.classes;
 
+
 public class ConexiuneBazaDate {
     private String nume;
     private int nrTabele;
     private String linkConectare;
 
-    private static ConexiuneBazaDate instanta=null;
+    private static ConexiuneBazaDate instanta = null;
+
     private ConexiuneBazaDate(String nume, int nrTabele, String linkConectare) {
         this.nume = nume;
         this.nrTabele = nrTabele;
@@ -24,9 +26,10 @@ public class ConexiuneBazaDate {
                 ", linkConectare='" + linkConectare + '\'' +
                 '}';
     }
-    public static synchronized ConexiuneBazaDate getInstance(String nume, int nrTabele,String linkConectare ){
-        if(instanta==null){
-            instanta=new ConexiuneBazaDate(nume, nrTabele,linkConectare);
+
+    public static synchronized ConexiuneBazaDate getInstance(String nume, int nrTabele, String linkConectare) {
+        if (instanta == null) {
+            instanta = new ConexiuneBazaDate(nume, nrTabele, linkConectare);
         }
         return instanta;
     }

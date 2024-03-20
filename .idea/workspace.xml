@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9062c2e-94ac-4cca-bf7f-e5650619b600" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar1/Seminar1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/Seminar2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IotuAmalia_SeminarCts/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/out/production/Seminar2/clase/Angajat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/out/production/Seminar2/clase/Aplicant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/out/production/Seminar2/clase/Elev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/out/production/Seminar2/clase/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/out/production/Seminar2/main/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/out/production/Seminar2/readers/AngajatReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/out/production/Seminar2/readers/AplicantReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/out/production/Seminar2/readers/ElevReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar2/out/production/Seminar2/readers/StudentReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar3/src/singletonLazy/classes/ConexiuneBazaDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar3/src/singletonLazy/classes/ConexiuneBazaDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar3/src/singletonLazy/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar3/src/singletonLazy/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar3/src/singletonRegistry/classes/SustinereExamen.java" beforeDir="false" afterPath="$PROJECT_DIR$/IotuAmalia_SeminarCts/Seminar3/src/singletonRegistry/classes/SustinereExamen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2dKDxXDSYzBDBBqUxS1KH0AfSAD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,7 +42,41 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IotuAmalia_SeminarCts" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Seminar1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Program" />
+      <module name="Seminar2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

@@ -7,7 +7,7 @@ public class SustinereExamen {
 
     Map<Integer, Student> listaStudenti = new HashMap<>();
 
-    public SustinereExamen(String nume) {
+    private SustinereExamen(String nume) {
         this.nume = nume;
     }
 

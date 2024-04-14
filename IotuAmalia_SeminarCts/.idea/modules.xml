@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IotuAmalia_SeminarCts.iml" filepath="$PROJECT_DIR$/IotuAmalia_SeminarCts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemeDesignPatternsCreationale/ProblemeDesignPatternsCreationale.iml" filepath="$PROJECT_DIR$/ProblemeDesignPatternsCreationale/ProblemeDesignPatternsCreationale.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4./Seminar4..iml" filepath="$PROJECT_DIR$/Seminar4./Seminar4..iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4.1/Seminar4.1.iml" filepath="$PROJECT_DIR$/Seminar4.1/Seminar4.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7/Seminar7.iml" filepath="$PROJECT_DIR$/Seminar7/Seminar7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Seminar8.iml" filepath="$PROJECT_DIR$/Seminar8/Seminar8.iml" />
     </modules>
   </component>
 </project>

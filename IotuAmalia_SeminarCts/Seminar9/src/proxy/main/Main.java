@@ -13,8 +13,11 @@ public class Main {
         vanzareBilet.vinde(persoana1);
         vanzareBilet.vinde(persoana2);
 
-        Vanzare proxyVarsta = new ProxyGen(vanzareBilet,"masculin");
+       Vanzare proxyVarsta=new ProxyVarsta(vanzareBilet);
         proxyVarsta.vinde(persoana1);
         proxyVarsta.vinde(persoana2);
+        Vanzare proxyGen=new ProxyGen(proxyVarsta,"masculin");
+        proxyGen.vinde(persoana1);
+        proxyGen.vinde(persoana2);
     }
 }

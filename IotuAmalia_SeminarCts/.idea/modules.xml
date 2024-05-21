@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IotuAmalia_SeminarCts.iml" filepath="$PROJECT_DIR$/IotuAmalia_SeminarCts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemeDPStructurale/ProblemeDPStructurale.iml" filepath="$PROJECT_DIR$/ProblemeDPStructurale/ProblemeDPStructurale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemeDesignPatternCreationale/ProblemeDesignPatternCreationale.iml" filepath="$PROJECT_DIR$/ProblemeDesignPatternCreationale/ProblemeDesignPatternCreationale.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemeDesignPatternStructurale/ProblemeDesignPatternStructurale.iml" filepath="$PROJECT_DIR$/ProblemeDesignPatternStructurale/ProblemeDesignPatternStructurale.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemeDesignPatternsComportamentale/ProblemeDesignPatternsComportamentale.iml" filepath="$PROJECT_DIR$/ProblemeDesignPatternsComportamentale/ProblemeDesignPatternsComportamentale.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemeDesignPatternsCreationale/ProblemeDesignPatternsCreationale.iml" filepath="$PROJECT_DIR$/ProblemeDesignPatternsCreationale/ProblemeDesignPatternsCreationale.iml" />

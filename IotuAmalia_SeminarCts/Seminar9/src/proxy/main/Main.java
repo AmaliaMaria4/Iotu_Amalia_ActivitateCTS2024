@@ -1,9 +1,6 @@
 package proxy.main;
 
-import proxy.classes.Persoana;
-import proxy.classes.ProxyVarsta;
-import proxy.classes.Vanzare;
-import proxy.classes.VanzareBilet;
+import proxy.classes.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,10 +10,12 @@ public class Main {
         vanzareBilet.vinde(persoana1);
         vanzareBilet.vinde(persoana2);
 
-        Vanzare proxyVarsta = new ProxyVarsta(vanzareBilet);
+        Vanzare proxyVarsta=new ProxyVarsta(vanzareBilet);
         proxyVarsta.vinde(persoana1);
         proxyVarsta.vinde(persoana2);
+        Vanzare proxyGen=new ProxyGen(proxyVarsta,"masculin");
+        proxyGen.vinde(persoana1);
+        proxyGen.vinde(persoana2);
 
-       // Vanzare proxyGen=new ProxyVarsta(proxyVarsta,"masculin");
     }
 }
